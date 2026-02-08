@@ -1,1 +1,3 @@
-gh pr checkout 5091
+git merge bug-fix-typo >> merge_branches 2>&1
+Merge branch 'bug-fix-typo' into main
+ 1 file changed, 1 insertion(+)
